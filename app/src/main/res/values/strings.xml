@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ProgressionApp</string>
+    <string name="new_team_button">New Team</string>
 </resources>
